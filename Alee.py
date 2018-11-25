@@ -6,6 +6,9 @@
 #
 # WARNING! All changes made in this file will be lost!
 
+
+#Author - Alee Kolachi
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QApplication, QWidget, QInputDialog, QLineEdit, QFileDialog
 from PyQt5.QtGui import QIcon
